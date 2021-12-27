@@ -1,0 +1,3 @@
+[submodule "nuro"]
+	path = dist/nuro
+	url = https://github.com/jegan321/nuro
